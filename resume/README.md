@@ -25,7 +25,7 @@
 ---
 
 ### Cursussen en Workshops
-- drone opleiding BAFA <br>
+- Drone opleiding BAFA <br>
 
 ---
 
@@ -57,5 +57,4 @@
 
 ---
 
-![alt text](https://scontent-bru2-1.xx.fbcdn.net/v/t1.0-9/11705132_1277229418960768_7102915383251889449_n.jpg?oh=f38f9abfa96167db88a597ce7eb63492&oe=5864D13A =200x200 "Tomas Hoste")
 <img src="https://scontent-bru2-1.xx.fbcdn.net/v/t1.0-9/11705132_1277229418960768_7102915383251889449_n.jpg?oh=f38f9abfa96167db88a597ce7eb63492&oe=5864D13A" width="200">
