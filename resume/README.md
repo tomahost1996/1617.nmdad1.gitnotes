@@ -2,8 +2,40 @@ RESUME
 
 
 
-Naam: Hoste <br>
-Voornaam: Tomas <br>
-Opleiding: MMP - proDUCE <br>
-Favoriete website: [www.youtube.com](www.youtube.com/%22YouTube%22) <br>
-Persoonlijke website: [www.ground2sky.be](www.ground2sky.be/%22Ground2Sky Productions%22) <br>
+Personalia
+Volledige naam: Tomas Hoste <br>
+Geboortedatum: 19/01/1996 <br>
+Geslacht: Man <br>
+Nationaliteit: Belg <br>
+E-mailadres: info@ground2sky.be <br>
+Website: www.ground2sky.be <br>
+Social Media: www.facebook.com/ground2sky <br>
+
+Opleiding: MMP-proDUCE <br>
+
+Werkervaring
+- Delhaize <br>
+- Diverse audiovisuele producties <br>
+
+Cursussen en Workshops
+- drone opleiding BAFA <br>
+
+Nevenactiviteit
+- Fotografie <br>
+- Gaming <br>
+
+Computerkennis
+Software: Premiere Pro, After Effects, Lightroom <br>
+Webtechnologie: N/A <br>
+Programmeertalen: N/A <br>
+Favoriete websites en apps: YouTube, Instagram, 500px <br>
+
+Talenkennis
+- Nederlands: +++ <br>
+- Engels: +++ <br>
+- Frans: = <br>
+- Duits: = <br>
+- Spaans: - <br>
+
+Overige
+Interesses: drones, fotografie, gaming <br>
