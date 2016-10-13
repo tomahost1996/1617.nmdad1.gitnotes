@@ -8,8 +8,8 @@
 - **Geslacht:** Man <br>
 - **Nationaliteit:** Belg <br>
 - **E-mailadres:** info@ground2sky.be <br>
-- **Website:** www.ground2sky.be <br>
-- **Social Media:** www.facebook.com/ground2sky <br>
+- **Website:** <a href="www.ground2sky.be" target="_blank">Ground2Sky Productions</a> <br>
+- **Social Media:** <a href="www.facebook.com/ground2sky" target="_blank">Facebook</a> <br>
 
 ---
 
