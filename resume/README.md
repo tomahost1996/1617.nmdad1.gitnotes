@@ -37,8 +37,8 @@
 
 ### Computerkennis <br>
 - **Software:** Premiere Pro, After Effects, Lightroom <br>
-- **Webtechnologie:** N/A <br>
-- **Programmeertalen:** N/A <br>
+- **Webtechnologie:** HTML5 & CSS <br>
+- **Programmeertalen:** Basic JavaScript, jQuery & PHP <br>
 - **Favoriete websites en apps:** YouTube, Instagram, 500px <br>
 
 ---
